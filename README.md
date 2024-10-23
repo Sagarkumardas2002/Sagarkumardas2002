@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkumardas2002&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkumardas2002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarkumardas2002" alt="sagarkumardas2002" /></a> </p>
-
 - 🔭 I’m currently working on **video calling web application**
 
 - 🌱 I’m currently learning **Next.js, Open Source Contribution**
@@ -29,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarkumardas2002&show_icons=true&locale=en&layout=compact" alt="sagarkumardas2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarkumardas2002&show_icons=true&locale=en" alt="sagarkumardas2002" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkumardas2002&" alt="sagarkumardas2002" /></p>
