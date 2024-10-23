@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkumardas2002&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkumardas2002" /> </p>
 
-- 🔭 I’m currently working on **video calling web application**
+- 🔭 I’m currently working on **Real Time Streaming Protocols (video calling web application)**
 
-- 🌱 I’m currently learning **Next.js, Open Source Contribution**
-
-- 💬 Ask me about **React.js, CSS, HTML**
+- 🌱 I’m currently learning **Next.js (Server Side Rendering), Open Source Contribution**
 
 - 📫 How to reach me **sagarkumardas306400@gmail.com**
 
