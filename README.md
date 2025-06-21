@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Real Time Streaming Protocols (video calling web application)**
 
-- 🌱 I’m currently learning **Next.js (Server Side Rendering), Open Source Contribution**
+- 🌱 I’m currently learning **Vibe Coding, AWS, System Design, Devops**
 
 - 📫 How to reach me **sagarkumardas306400@gmail.com**
 
