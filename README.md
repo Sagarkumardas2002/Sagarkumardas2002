@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Kumar Das</h1>
-<h3 align="center">A passionate MERN stack and full stack developer from India</h3>
+<h3 align="center">A passionate MERN stack and full stack developer from Mumbai Maharashtra India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkumardas2002&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkumardas2002" /> </p>
 
