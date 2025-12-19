@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Excel Analytics System + Real Time Streaming Protocols**
 
-- 🌱 I’m currently learning **Vibe Coding, AWS, System Design, Devops**
+- 🌱 I’m currently learning **Machine Learning, AWS, System Design, Devops**
 
 - 📫 How to reach me **sagarkumardas306400@gmail.com** ** **Whatsapp No: 7321803273**
 
