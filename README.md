@@ -17,19 +17,25 @@
 <p align="center">
 
   <a href="https://www.linkedin.com/in/sagar-kumar-das-889380246">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
-
+  
+  &nbsp;&nbsp;
+  
   <a href="https://www.codechef.com/users/sagarkdas1015">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638"/>
   </a>
-
+  
+  &nbsp;&nbsp;
+  
   <a href="https://www.leetcode.com/u/sagarkumarrdas2002/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116"/>
   </a>
-
+  
+  &nbsp;&nbsp;
+  
   <a href="https://www.geeksforgeeks.org/user/sagarpkdas_31/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0F9D58"/>
   </a>
 
 </p>
