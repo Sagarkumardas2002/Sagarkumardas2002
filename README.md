@@ -14,22 +14,22 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="center" style="border:1px solid #e0e0e0; padding:15px; border-radius:10px;">
+<p align="center">
 
   <a href="https://www.linkedin.com/in/sagar-kumar-das-889380246">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="https://www.codechef.com/users/sagarkdas1015">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="28"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-  
+
   <a href="https://www.leetcode.com/u/sagarkumarrdas2002/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="28"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  
+
   <a href="https://www.geeksforgeeks.org/user/sagarpkdas_31/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="28"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 
 </p>
