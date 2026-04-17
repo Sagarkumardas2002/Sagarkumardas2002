@@ -14,11 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<h3 align="left">Connect with me:</h3>
-
 <table align="center">
   <tr>
-    <td align="center" style="padding:15px; border-radius:10px; border:1px solid #e0e0e0;">
+    <td align="center" style="padding:15px; border:1px solid #e0e0e0; border-radius:10px;">
       
       <a href="https://www.linkedin.com/in/sagar-kumar-das-889380246">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28"/>
@@ -39,6 +37,7 @@
     </td>
   </tr>
 </table>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
