@@ -14,21 +14,31 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sagar-kumar-das-889380246">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28"/>
-  </a>
-  <a href="https://www.codechef.com/users/sagarkdas1015">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="28"/>
-  </a>
-  <a href="https://www.leetcode.com/u/sagarkumarrdas2002/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="28"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/sagarpkdas_31/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="28"/>
-  </a>
-</p>
+<h3 align="left">Connect with me:</h3>
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding:15px; border-radius:10px; border:1px solid #e0e0e0;">
+      
+      <a href="https://www.linkedin.com/in/sagar-kumar-das-889380246">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28"/>
+      </a>
+      
+      <a href="https://www.codechef.com/users/sagarkdas1015">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="28"/>
+      </a>
+      
+      <a href="https://www.leetcode.com/u/sagarkumarrdas2002/">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="28"/>
+      </a>
+      
+      <a href="https://www.geeksforgeeks.org/user/sagarpkdas_31/">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="28"/>
+      </a>
+
+    </td>
+  </tr>
+</table>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
