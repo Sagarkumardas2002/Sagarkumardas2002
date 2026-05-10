@@ -4,18 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkumardas2002&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkumardas2002" /> </p>
 
-🔭 Currently building AI-powered Full-Stack Applications, intelligent workflows, and automation systems using LangChain, LangGraph, Claude Code, Vector Databases, and Docker
-🌱 Currently learning Machine Learning, AWS Cloud, Advanced System Design, and Scalable AI Architectures
-💻 Strong experience in MERN Stack Development, Next.js, REST APIs, Authentication Systems, and Backend Engineering
-🤖 Focused on becoming a highly skilled Full-Stack AI Engineer capable of building production-grade AI products end-to-end
-⚡ Skilled in integrating LLMs, AI Agents, Retrieval-Augmented Generation (RAG), AI Automation, and Developer Tools
-🎯 Passionate about creating applications that are:
-Fast ⚡
-Scalable 📈
-User-Friendly 🎨
-AI-Driven 🤖
-Production Ready 🚀
-🧠 Regularly practicing Data Structures & Algorithms to strengthen problem-solving and software engineering fundamentals
+-🔭 Currently building AI-powered Full-Stack Applications, intelligent workflows, and automation systems using LangChain, LangGraph, Claude Code, Vector Databases, and Docker
+-🌱 Currently learning Machine Learning, AWS Cloud, Advanced System Design, and Scalable AI Architectures
+-💻 Strong experience in MERN Stack Development, Next.js, REST APIs, Authentication Systems, and Backend Engineering
+-🤖 Focused on becoming a highly skilled Full-Stack AI Engineer capable of building production-grade AI products end-to-end
+-⚡ Skilled in integrating LLMs, AI Agents, Retrieval-Augmented Generation (RAG), AI Automation, and Developer Tools
+-🎯 Passionate about creating applications that are:
+  Fast ⚡
+  Scalable 📈
+  User-Friendly 🎨
+  AI-Driven 🤖
+  Production Ready 🚀
+-🧠 Regularly practicing Data Structures & Algorithms to strengthen problem-solving and software engineering fundamentals
 
 - 📫 How to reach me **sagarkumardas306400@gmail.com** ** **Whatsapp No: 7321803273**
 
