@@ -1,5 +1,3 @@
-<!-- ========================= HEADER ========================= -->
-
 <h1 align="center">Hi 👋, I'm Sagar Kumar Das</h1>
 
 <h3 align="center">
@@ -14,26 +12,11 @@ Passionate about building scalable AI-powered applications, modern full-stack pr
 <img src="https://komarev.com/ghpvc/?username=sagarkumardas2002&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="sagarkumardas2002" />
 </p>
 
-<br/>
-
-<!-- ========================= BANNER ========================= -->
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=FULL%20STACK%20AI%20DEVELOPER&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI-Powered%20Scalable%20Applications&descAlignY=60&descSize=18"
-    width="100%"
-  />
-</p>
-
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-<table>
-<tr>
-<td width="68%" valign="top">
-
-### 💡 Who Am I?
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 * 🔭 Building **AI-powered Full-Stack Applications**, intelligent workflows, and automation systems using **LangChain, LangGraph, Claude Code, Vector Databases, and Docker**
 
@@ -51,7 +34,7 @@ Passionate about building scalable AI-powered applications, modern full-stack pr
   * AI Automation
   * Developer Tools
 
-* 🎯 Passionate about creating applications that are:
+* 🎯 I love building applications that are:
 
   * ⚡ Fast
   * 📈 Scalable
@@ -61,22 +44,9 @@ Passionate about building scalable AI-powered applications, modern full-stack pr
 
 * 🧠 Regularly practicing **Data Structures & Algorithms** to strengthen software engineering fundamentals
 
-</td>
-
-<td width="32%" align="center">
-
-<img 
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-width="100%"
-/>
-
-</td>
-</tr>
-</table>
-
 ---
 
-# 🌐 Portfolio & Contact
+## 🌐 Portfolio & Contact
 
 <p align="center">
 
@@ -96,7 +66,7 @@ width="100%"
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
 
@@ -126,88 +96,44 @@ width="100%"
 
 # 🛠️ Tech Stack
 
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-## 💻 Languages
+<h3 align="center">💻 Languages</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java,html,css,mysql" />
 </p>
 
-</td>
-
-<td width="33%" align="center">
-
-## ⚙️ Full-Stack
+<h3 align="center">⚙️ Full-Stack Development</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux,tailwind,firebase" />
 </p>
 
-</td>
-
-<td width="33%" align="center">
-
-## 🤖 AI / Cloud
+<h3 align="center">🤖 AI / Cloud / Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode" />
 </p>
 
-</td>
-</tr>
-</table>
-
 ---
 
-# 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sagarkumardas2002&show_icons=true&theme=tokyonight&hide_border=true"
-    height="190em"
-    width="49%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarkumardas2002&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
 
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkumardas2002&layout=compact&theme=tokyonight&hide_border=true"
- height="190em"
- width="49%"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkumardas2002&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkumardas2002&theme=tokyonight&hide_border=true"
-    width="98%"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkumardas2002&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 💡 Developer Mindset
-
-<p align="center">
-  <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
-    width="95%"
-  />
-</p>
+## 💡 Developer Mindset
 
 <p align="center">
   <i>
     "I enjoy building intelligent, scalable, and production-ready software that combines AI capabilities with modern full-stack engineering."
   </i>
-</p>
-
-<!-- ========================= FOOTER ========================= -->
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"
-    width="100%"
-  />
 </p>
