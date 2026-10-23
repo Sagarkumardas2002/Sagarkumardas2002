@@ -18,7 +18,7 @@ Passionate about building scalable AI-powered applications, modern full-stack pr
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-* 🔭 Building **AI-powered Full-Stack Applications**, intelligent workflows, and automation systems using **LangChain, LangGraph, Claude Code, Vector Databases, and Docker**
+* 🔭 Building **AI-powered Full-Stack Applications**, intelligent workflows, and automation systems using **LangChain, LangGraph, Claude Code, Vector Databases, LLM API's and Docker**
 
 * 🌱 Currently learning **Machine Learning, AWS Cloud, Advanced System Design, and Scalable AI Architectures**
 
